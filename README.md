@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋, I'm Dinmukhammed</h2>
-<h3 align="left">A Java Developer from Kazakhstan</h3>
+<h4 align="left">A Java Developer from Kazakhstan</h4>
+<h4 align="left">MATH & PROGRAMMING</h4>
 
 - 🌱 I’m currently learning **Maven, Spring Framework, Hibernate**
+
+- 💬 Ask me about **Java Core, Collections, Algorithms & Data Structures, Calculus, Linear Algebra...**
 
 - 📫 How to reach me **zhasulanov04@list.ru**
 
