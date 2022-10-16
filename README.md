@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Dinmukhammed</h2>
 <h3 align="left">A Java Developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **Spring Framework, Hibernate**
+- 🌱 I’m currently learning **Maven, Spring Framework, Hibernate**
 
 - 📫 How to reach me **zhasulanov04@list.ru**
 
