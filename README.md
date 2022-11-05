@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Java Core, Collections, Algorithms & Data Structures, Calculus, Linear Algebra...**
 
-- 📫 How to reach me **zhasulanov04@list.ru**
+- 📫 How to reach me **dimokzhasulanov@gmail.com**
 
 - ⚡ Fun fact **Bet you didn't know The Mona Lisa has no eyebrows.**
 
