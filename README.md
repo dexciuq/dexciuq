@@ -2,7 +2,7 @@
 <h4 align="left">A Java Developer from Kazakhstan</h4>
 <h4 align="left">MATH & PROGRAMMING</h4>
 
-- 🌱 I’m currently learning **Maven, Spring Framework, Hibernate**
+- 🌱 I’m currently learning **Spring Framework, Hibernate**
 
 - 💬 Ask me about **Java Core, Collections, Algorithms & Data Structures, Calculus, Linear Algebra...**
 
