@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋, I'm Dinmukhammed</h2>
-<h4 align="left">A Java Developer from Kazakhstan</h4>
+<h4 align="left">Android Developer from Kazakhstan</h4>
 <h4 align="left">MATH & PROGRAMMING</h4>
 
-- 🌱 I’m currently learning **Spring Framework, Hibernate**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Java Core, Collections, Algorithms & Data Structures, Calculus, Linear Algebra...**
+- 💬 Ask me about **MVVM, Clean Architecture, SOLID, Algorithms & Data Structures, Coroutines, Flow**
 
 - 📫 How to reach me **dimokzhasulanov@gmail.com**
 
